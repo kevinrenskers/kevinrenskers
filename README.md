@@ -5,7 +5,7 @@ I'm a creative freelance developer with a passion for good design and intuitive,
 
 Usability and design are always on my mind, even when writing code: this should be usable, readable and beautiful too. I always strive to create reusable code that can be shared with the world. Currently I'm maintaining about 10 open source projects on GitHub.
 
-I'm been online since 1994, creating websites since 2000 and iOS apps since 2010. 
+I've been online since 1994, creating websites since 2000 and iOS apps since 2010. 
 
 Specialties
 
