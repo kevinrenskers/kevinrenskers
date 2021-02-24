@@ -5,7 +5,7 @@ I'm a creative freelance developer with a passion for good design and intuitive,
 
 Usability and design are always on my mind, even when writing code: this should be usable, readable and beautiful too.
 
-I've been online since 1994, creating websites since 2000 and iOS apps since 2010. You can find my open source projects on [loopwerk.io/projects](https://www.loopwerk.io/projects/) and a portfolio of mobile apps I've created on [loopwerk.io/apps](https://www.loopwerk.io/apps/). 
+I've been online since 1994, creating websites since 2000 and iOS apps since 2010. You can find my open source projects on [loopwerk.io/projects](https://www.loopwerk.io/projects/) and a portfolio of mobile apps I've created on [loopwerk.io/apps](https://www.loopwerk.io/apps/). My CV, if you need it, can be downloaded [here](https://www.loopwerk.io/about/KevinRenskers.pdf).
 
 Specialties
 
