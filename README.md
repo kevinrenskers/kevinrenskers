@@ -15,3 +15,4 @@ Specialties
 - Node.js, Express, Socket.io
 - HTML, CSS, Less, Bootstrap
 - MySQL, Postgresql, sqlite
+- CircleCI, Bitrise, GitHub Actions
