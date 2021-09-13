@@ -10,7 +10,7 @@ I've been online since 1994, creating websites since 2000 and iOS apps since 201
 Specialties
 
 - Swift, SwiftUI, Objective-C, UIKit, Xcode, Instruments, CocoaPods, SPM
-- JavaScript, Svelte, ES6, NPM, Yarn
+- JavaScript, Svelte, SvelteKit, ES6, NPM, Yarn
 - Python, Django, Django REST Framework
 - Node.js, Express, Socket.io
 - HTML, CSS, Less, websockets
