@@ -1,8 +1,9 @@
-### Hello!
-My name is **Kevin Renskers**.
+### Hi there!
 
-I’m a creative developer with a passion for good usability and great design. I love working on intuitive, user friendly interfaces, especially on the "back-of-the-front-end" side of things; I love making stuff tick, architecting innovative solutions to complex problems. I also love working on the back-end: I use Python (with Django REST Framework or Django Ninja), or Swift (with Vapor), to create developer-friendly APIs for those apps.
+My name is Kevin Renskers, and I’m a creative software developer with a passion for good usability and great design. I love working on intuitive, user friendly interfaces and their APIs.
 
-Usability and design are always on my mind, even when writing code: this should be usable, readable and beautiful too.
+I created my first website in 2000 and my first iOS app in 2010. I’ve been working as a fully remote freelance developer since 2016, fixing projects for international clients such as CBS, Last.fm, Sentry, WeTransfer and Unilever. I’ve mentored multiple junior developers, both at other companies and in my own [mentorship program](https://www.loopwerk.io/mentor/).
 
-I've been online since 1994, creating websites since 2000 and iOS apps since 2010. Explore my open source projects at www.loopwerk.io/projects and view my app portfolio at www.loopwerk.io/apps. My CV can be found on www.loopwerk.io/about.
+You can expect a healthy dose of Dutch honesty from me. I’ll just tell you how it is, what needs to be fixed, without the bullshit. I think our industry could use some more honesty and better ethics.
+
+Explore my open source projects at www.loopwerk.io/projects and view my app portfolio at www.loopwerk.io/apps. My CV can be found on www.loopwerk.io/about.
