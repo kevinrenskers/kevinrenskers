@@ -4,9 +4,9 @@ Hi there! My name is Kevin Renskers, and I’m a product-minded engineering lead
 
 I created my first website in 2000, and got my first job as a PHP developer in 2001. In 2009 I switched to Python and Django, and in 2010 I created my first iOS app. I’ve worked as a fully remote developer since 2016, for international clients such as CBS, Last.fm, Sentry, WeTransfer, Unilever, and Emmy and Oscar winner Sound Radix. In 2023 I shifted my focus from mostly iOS work back to the open web.
 
-My hobbies and interests include playing PC games, playing Dungeons & Dragons, watching [tv shows](https://www.bolhoed.net/shows/), cooking, [photography](https://glass.photo/kevinrenskers) and architecture.
+My hobbies and interests include playing PC games, playing Dungeons & Dragons, watching [tv shows](https://www.loopwerk.io/shows/), cooking, [photography](https://www.loopwerk.io/photos/) and architecture.
 
-Some of my all-time favorites PC games include The Last of Us, Lies of P, Elden Ring, Europa Universalis IV, Baldur's Gate, and Cyberpunk 2077. A full list can be found on my [personal website](https://www.bolhoed.net/games/).
+Some of my all-time favorites PC games include The Last of Us, Lies of P, Elden Ring, Europa Universalis IV, Baldur's Gate, and Cyberpunk 2077. A full list can be found on my [website](https://www.loopwerk.io/games/).
 
 I built [Critical Notes](https://www.critical-notes.com) and [RSS Filter](https://rssfilter.com), I maintain a bunch of [open source projects](https://www.loopwerk.io/projects/), and I'm a member of the [Django Software Foundation](https://www.djangoproject.com/foundation/).
 
